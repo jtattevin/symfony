@@ -5,6 +5,7 @@ CHANGELOG
 ---
 
  * Add `$key` argument to `#[MapQueryString]` that allows using a specific key for argument resolving
+ * Add `#[MapSessionParameter]` to pass a session parameter to a controller argument
 
 7.2
 ---
