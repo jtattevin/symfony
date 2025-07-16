@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+7.4
+---
+
+ * Add `#[MapSessionParameter]` to pass a session parameter to a controller argument
+
 7.3
 ---
 
